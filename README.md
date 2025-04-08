@@ -1,4 +1,3 @@
-# Probabilistic_Modelling_and_Reasoning
 ## <font color = magenta>Unit 1</font>
 1. Confounding and lurking variables.
 2. Randomization and it's role on reducing the effect of confounding and lurking variable during sample
@@ -36,3 +35,62 @@
 	 
 - <font color = darkorange>**multivariate analysis**</font>
   - Graphs
+
+## <font color = magenta>Unit 3: Probability and Probability Distributions</font>
+### <font color = DarkCyan>3.1 Fundamentals of probability</font>
+- <font color = darkorange>**Basic Concepts**</font>
+    - Sets and Subsets
+    - Set Operations (Union, Intersection, Complement)
+    - Venn Diagrams
+    - Mutually Exclusive Sets
+
+- <font color = darkorange>**Types of Events**</font>
+    - Sample Space Definition
+    - Complementary Events
+    - Impossible Events
+	- Independent Events
+	- Dependent Events
+    - Sure Events
+    - Mutually Exclusive Events
+    - Exhaustive Events
+	  
+- <font color = darkorange>**Basic Rules and Numericals**</font>
+    - Addition Rule
+    - Multiplication Rule
+	  
+- <font color = darkorange>**Advanced Counting numericals**</font>
+    - Permutation
+    - Combination
+    - Factorial
+	- numericals of probability 
+	  
+- <font color = darkorange>**Conditional Probability Concepts and Numericals**</font>
+    - Definition and Notation
+    - Conditional Probability 
+    - Law of Total Probability
+    - Addition Rule for Independent, Dependent and mutually exclusive Events
+    - Multiplication Rule for Independent, dependent and mutually exclusive Events
+	- Numericals 
+
+- <font color = darkorange>**Baye's Theorem Components and numericals**</font>
+    - Prior Probability
+    - Likelihood
+    - Posterior Probability
+    - Numericals
+
+### <font color = DarkCyan>3.2 Random Variables</font>
+- <font color = darkorange>**Basics**</font>
+    - Definition
+    - Types (Discrete vs Continuous)
+    - Random Variable Transformations
+	- probability distribution function 
+- <font color = darkorange>**Discrete Random Variable**</font>
+    - discrete probability distribution
+    - Probability Mass Function
+    - Cumulative Distribution Function
+    - Moments of distribution
+	- discrete Uniform distribution
+	- bernoulli distribution
+	- binomial distribution
+	- poission distribution 
+	
