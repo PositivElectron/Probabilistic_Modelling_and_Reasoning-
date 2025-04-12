@@ -88,9 +88,16 @@
     - discrete probability distribution
     - Probability Mass Function
     - Cumulative Distribution Function
-    - Moments of distribution
+    - Moments of distribution and formula for both continous and discrete random variables
 	- discrete Uniform distribution
-	- bernoulli distribution
-	- binomial distribution
-	- poission distribution 
+	- bernoulli distribution and numericals
+	- binomial distribution and numericals
+	- poission distribution and numericals
+- <font color = darkorange>**Continous Random Variable**</font>
+    - Continous probability distribution
+    - Probability Density Function and its CDF
+    - Difference between Continous and Discrete Distribution
+    - Density Estimation: Parametric and non-parametric
+    - Normal Distribution: Properties and numericals
+    - Central Limit theorem
 	
